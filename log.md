@@ -1,15 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 29, 2023
+### Day 1: August 29, 2023
 
 
-**Today's Progress**:Solved fow recursion question on leetcode.
+**Today's Progress**:Solved few recursion question on leetcode.
 
 **Thoughts:** I really struggled with recursion, but, overall, I feel like I am slowly getting better at it.
 
 **Link to work:** 
 1. https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
 2. https://leetcode.com/problems/different-ways-to-add-parentheses/
+
+### Day 2: August 30, 2023
+
+
+**Today's Progress**:Solved a recursion question on leetcode.
+
+**Thoughts:** I t took me more than an hour to solve it, need to improve.
+
+**Link to work:** 
+1. https://leetcode.com/problems/decode-string/
 
 <!--
 
