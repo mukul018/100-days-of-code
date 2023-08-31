@@ -16,10 +16,20 @@
 
 **Today's Progress**:Solved a recursion question on leetcode.
 
-**Thoughts:** I t took me more than an hour to solve it, need to improve.
+**Thoughts:** It took me more than an hour to solve it, need to improve.
 
 **Link to work:** 
 1. https://leetcode.com/problems/decode-string/
+
+### Day 3: August 31, 2023
+
+
+**Today's Progress**: Solved a sliding window question on leetcode and implemented jwt on my website.
+
+**Thoughts:** It took me more than an hour to solve it, need to improve. Learned about how to handle callback in async function.
+
+**Link to work:** 
+1. https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
 
 <!--
 
