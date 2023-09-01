@@ -31,6 +31,17 @@
 **Link to work:** 
 1. https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
 
+
+### Day 4: September 01, 2023
+
+
+**Today's Progress**: Solved a recursive problem on leetcode and learning how to make npm package.
+
+**Thoughts:** The problem was bit difficult to solve.
+
+**Link to work:** 
+1. https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
