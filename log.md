@@ -42,6 +42,19 @@
 **Link to work:** 
 1. https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 
+   
+
+### Day 5: September 02, 2023
+
+
+**Today's Progress**: Solved some easy problem on leetcode and working on how to make npm package.
+
+**Thoughts:** Build and publish npm package.
+
+**Link to work:** 
+1. https://leetcode.com/problems/last-stone-weight/
+2. https://leetcode.com/problems/counting-bits/
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
