@@ -55,6 +55,20 @@
 1. https://leetcode.com/problems/last-stone-weight/
 2. https://leetcode.com/problems/counting-bits/
 
+### Day 6: September 03, 2023
+
+Today's Progress: 
+Solved 2 DP problems on leetcode.
+Firstly, written recursive code which gave TLE.
+Then optimized it using memoization.
+
+To do:   
+Solve more DP problems.
+
+Link to work:
+https://leetcode.com/problems/count-sorted-vowel-strings/
+https://leetcode.com/problems/unique-paths/
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
