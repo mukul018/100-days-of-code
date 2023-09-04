@@ -69,6 +69,18 @@ Link to work:
 https://leetcode.com/problems/count-sorted-vowel-strings/
 https://leetcode.com/problems/unique-paths/
 
+### Day 7: September 04, 2023
+
+Today's Progress: 
+Solved N-Queens problem on leetcode and daily challange problem.
+
+To do:   
+Need to manage time efficiently.
+
+Link to work:
+https://leetcode.com/problems/linked-list-cycle/
+https://leetcode.com/problems/n-queens/
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
