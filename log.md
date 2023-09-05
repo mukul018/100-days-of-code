@@ -81,6 +81,18 @@ Link to work:
 https://leetcode.com/problems/linked-list-cycle/
 https://leetcode.com/problems/n-queens/
 
+### Day 8: September 05, 2023
+
+Today's Progress: 
+Solved 2 backtracking problem on leetcode.
+
+To do:   
+Need to practice more as backtracking is taking too much time.
+
+Link to work:
+https://leetcode.com/problems/sudoku-solver/
+https://leetcode.com/problems/generate-parentheses/
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
