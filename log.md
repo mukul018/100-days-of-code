@@ -105,7 +105,7 @@ Link to work:
 https://leetcode.com/problems/combination-sum/
 https://leetcode.com/problems/combination-sum-ii/
 
-Day 10 of #100DaysOfCode🎯    
+### Day 10 of #100DaysOfCode🎯    
 
 Today's Progress: 
 ✅Solved 3 backtracking problem on leetcode.
