@@ -120,3 +120,16 @@ https://leetcode.com/problems/subsets/
 
 10 days down, 90 to go! 💻🚀 #CodingJourney
 
+
+### Day 11 of #100DaysOfCode🎯    
+
+Today's Progress: 
+✅Solved 2 backtracking problem on leetcode.
+
+To do:   
+Getting more clarity in backtracking problems.
+
+Link to work:
+https://leetcode.com/problems/permutations/
+https://codingninjas.com/studio/problems/rat-in-a-maze-_8842357
+
