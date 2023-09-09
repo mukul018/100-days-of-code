@@ -133,3 +133,15 @@ Link to work:
 https://leetcode.com/problems/permutations/
 https://codingninjas.com/studio/problems/rat-in-a-maze-_8842357
 
+### Day 12 of #100DaysOfCode🎯    
+
+Today's Progress: 
+✅Solved 2 backtracking problem on leetcode.
+
+To do:   
+Will start DP from tommorow.
+
+Link to work:
+https://leetcode.com/problems/permutation-sequence/
+https://codingninjas.com/studio/problems/m-coloring-problem_981273
+
