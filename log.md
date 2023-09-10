@@ -145,3 +145,15 @@ Link to work:
 https://leetcode.com/problems/permutation-sequence/
 https://codingninjas.com/studio/problems/m-coloring-problem_981273
 
+### Day 13 of #100DaysOfCode🎯    
+
+Today's Progress: 
+✅Solved 2 problems on Dynamic Programming.
+
+To do:   
+Will try to give more time to understand these concepts.
+
+Link to work:
+https://www.codingninjas.com/studio/problems/count-ways-to-reach-the-n-th-stairs_798650
+https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74156
+
