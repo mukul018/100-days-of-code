@@ -157,3 +157,16 @@ Link to work:
 https://www.codingninjas.com/studio/problems/count-ways-to-reach-the-n-th-stairs_798650
 https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74156
 
+### Day 14 of #100DaysOfCode🎯    
+
+Today's Progress: 
+✅Solved 3 problems on Dynamic Programming.
+
+To do:   
+Try to solve more and more problems on DP.
+
+Link to work:
+https://codingninjas.com/studio/problems/frog-jump_3621012
+https://codingninjas.com/studio/problems/minimal-cost_8180930
+https://codingninjas.com/studio/problems/maximum-sum-of-non-adjacent-elements_843261
+
