@@ -170,3 +170,33 @@ https://codingninjas.com/studio/problems/frog-jump_3621012
 https://codingninjas.com/studio/problems/minimal-cost_8180930
 https://codingninjas.com/studio/problems/maximum-sum-of-non-adjacent-elements_843261
 
+### Day 15 of #100DaysOfCode🎯    
+
+Today's Progress: 
+✅Solved a problem on 2D Dynamic Programming.
+
+To do:   
+Only able to solve a single problem.
+Need to improve.
+
+Link to work:
+https://codingninjas.com/studio/problems/ninja%E2%80%99s-training_3621003
+
+#StriversA2ZDSA #CodingCommunity
+
+### Day 16 of #100DaysOfCode🎯    
+
+Today's Progress: 
+✅Solved 4 problems on 2D DP 🔥.
+
+To do:   
+Study about API Gateway.
+
+Link to work:
+https://www.codingninjas.com/studio/problems/triangle_1229398
+https://www.codingninjas.com/studio/problems/minimum-path-sum_985349
+https://www.codingninjas.com/studio/problems/unique-paths-ii_977241
+https://www.codingninjas.com/studio/problems/unique-paths_1081470
+
+#StriversA2ZDSA #CodingCommunity
+
