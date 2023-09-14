@@ -200,3 +200,16 @@ https://www.codingninjas.com/studio/problems/unique-paths_1081470
 
 #StriversA2ZDSA #CodingCommunity
 
+### Day 17 of #100DaysOfCode🎯    
+
+Today's Progress: 
+✅Solved a problem on 2D DP.
+
+To do:   
+setup your application with s3, aws lambda and api gateway.
+
+Link to work:
+https://www.codingninjas.com/studio/problems/maximum-path-sum-in-the-matrix_797998
+
+#StriversA2ZDSA #CodingCommunity
+
