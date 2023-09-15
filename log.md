@@ -213,3 +213,18 @@ https://www.codingninjas.com/studio/problems/maximum-path-sum-in-the-matrix_7979
 
 #StriversA2ZDSA #CodingCommunity
 
+### Day 18 of #100DaysOfCode🎯    
+
+Today's Progress: 
+✅Solved 2 problems on Subsequence/Subsets DP.
+
+To do:   
+setup your application with s3, aws lambda and api gateway.
+
+Link to work:
+https://www.codingninjas.com/studio/problems/subset-sum-equal-to-k_1550954
+https://www.codingninjas.com/studio/problems/partition-equal-subset-sum-_892980
+
+#StriversA2ZDSA #CodingCommunity
+
+
